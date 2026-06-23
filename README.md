@@ -1,3 +1,8 @@
+## Project Files
+
+- [View Full Project Presentation](Customer_Demographics_Dashboard.pdf)
+
+
 # customer-demographics-dashboard-powerbi
 Customer Demographics &amp; Loyalty Dashboard built using Power BI for customer behavior, product category, and demographic analysis.
 # Customer Demographics & Loyalty Dashboard
