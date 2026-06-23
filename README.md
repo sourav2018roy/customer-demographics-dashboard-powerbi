@@ -1,6 +1,6 @@
 ## Project Files
 
-- [View Full Project Presentation](Customer_Demographics_Dashboard.pdf)
+[- [View Full Project Presentation](Customer_Demographics_Dashboard.pdf)](https://github.com/sourav2018roy/customer-demographics-dashboard-powerbi/blob/main/Customer%20Demographics%20%26%20Product%20Intelligence%20Dashboard.pdf)
 
 
 # customer-demographics-dashboard-powerbi
